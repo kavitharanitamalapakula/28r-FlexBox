@@ -345,9 +345,19 @@ span {
     align-content: flex-end;
 }
 
+.flex-row-5,
+.flex-row-6 {
+    /* flex-direction: row; */
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    
+}
 .container-18 {
-    justify-content: space-around;
-    align-content: stretch;
+   align-content: stretch;
 }
 
 .container-19 {
