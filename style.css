@@ -354,10 +354,11 @@ span {
     display: flex;
     justify-content: space-evenly;
     padding: 5px;
-    
+
 }
+
 .container-18 {
-   align-content: stretch;
+    align-content: stretch;
 }
 
 .container-19 {
@@ -366,4 +367,27 @@ span {
 
 .container-20 {
     align-content: space-around;
+}
+
+.container-1:hover,
+.container-2:hover,
+.container-3:hover,
+.container-4:hover,
+.container-5:hover,
+.container-6:hover,
+.container-7:hover,
+.container-8:hover,
+.container-9:hover,
+.container-10:hover,
+.container-11:hover,
+.container-12:hover,
+.container-13:hover,
+.container-14:hover,
+.container-15:hover,
+.container-16:hover,
+.container-17:hover,
+.container-18:hover,
+.container-19:hover,
+.container-20:hover {
+    transform: scale(1.05);
 }
